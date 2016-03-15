@@ -8,12 +8,17 @@
     <title></title>
   </head>
   <body>
-    <main class="content container" role="main">
+    <header>
+      <img class="logo" src="/images/logo.png">
       <h1 class="title">Birmingham<strong>Test</strong>Automation</h1>
-      <h2></h2>
-      <h3>Mar 5, 2016</h3>
-      User-agent: *
+    </header>
+    <main class="content container" role="main">
+      <article>
+        <h2></h2>
+        <h3>Mar 2, 2016</h3>
+        User-agent: *
 
+      </article>
     </main>
   </body>
 </html>
